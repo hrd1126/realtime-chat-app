@@ -26,6 +26,8 @@
   "homepage": "https://github.com/hrd1126/realtime-chat-app#readme",
   "description": "",
   "dependencies": {
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.87.1",
     "@types/node": "^24.10.2",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
