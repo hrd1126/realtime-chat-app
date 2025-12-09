@@ -39,7 +39,7 @@
     - read_receipts テーブルの RLS ポリシーを作成
     - _Requirements: 1.5, 2.6, 4.5, 6.3, 7.6, 8.8, 9.5, 11.5, 12.5, 18.1, 18.2, 18.3, 18.4, 18.5_
 
-  - [ ] 2.4 Supabase Storage バケット設定
+  - [x] 2.4 Supabase Storage バケット設定
 
     - avatars バケットを作成し、RLS ポリシーを設定（公開読み取り、本人のみ書き込み）
     - message-attachments バケットを作成し、RLS ポリシーを設定（メンバーのみアクセス）
