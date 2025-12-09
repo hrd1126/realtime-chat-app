@@ -28,7 +28,7 @@
     - read_receipts テーブルとインデックスのマイグレーションを作成
     - _Requirements: 4.5, 6.3, 7.6, 8.8, 9.5, 18.2, 18.3, 18.4_
 
-  - [ ] 2.3 Row Level Security (RLS) ポリシー実装
+  - [x] 2.3 Row Level Security (RLS) ポリシー実装
 
     - users テーブルの RLS ポリシーを作成（閲覧は全員、更新は本人のみ）
     - channels テーブルの RLS ポリシーを作成（メンバーのみ閲覧可能）
