@@ -17,7 +17,7 @@
     - 環境変数（NEXT_PUBLIC_SUPABASE_URL、NEXT_PUBLIC_SUPABASE_ANON_KEY）を設定
     - _Requirements: 1.4_
 
-  - [ ] 2.2 データベーステーブル作成
+  - [x] 2.2 データベーステーブル作成
 
     - users テーブルのマイグレーションを作成
     - channels テーブルのマイグレーションを作成
