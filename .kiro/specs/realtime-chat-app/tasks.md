@@ -10,7 +10,7 @@
 
 - [ ] 2. Supabase プロジェクト設定とデータベーススキーマ
 
-  - [ ] 2.1 Supabase クライアント設定
+  - [x] 2.1 Supabase クライアント設定
 
     - Supabase クライアントライブラリをインストール
     - lib/supabase/client.ts と lib/supabase/server.ts を作成
