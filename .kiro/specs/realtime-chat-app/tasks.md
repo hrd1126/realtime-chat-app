@@ -54,7 +54,7 @@
     - lib/validations/file.ts に fileUploadSchema を作成
     - _Requirements: 15.2, 15.3_
 
-  - [ ] 3.2 バリデーションスキーマのユニットテスト
+  - [x] 3.2 バリデーションスキーマのユニットテスト
     - tests/unit/validations/auth.test.ts を作成
     - tests/unit/validations/profile.test.ts を作成
     - tests/unit/validations/channel.test.ts を作成
