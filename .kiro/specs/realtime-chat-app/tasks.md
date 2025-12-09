@@ -1,6 +1,6 @@
 # Implementation Plan
 
-- [ ] 1. プロジェクト初期化とツール設定
+- [x] 1. プロジェクト初期化とツール設定
 
   - Next.js 15 プロジェクトを作成し、TypeScript、Tailwind CSS、ESLint、Prettier を設定
   - Husky、lint-staged を設定してコミット前の自動チェックを有効化
